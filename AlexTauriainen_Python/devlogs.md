@@ -5,7 +5,9 @@ The very first phase of this project is going to be the research phase, starting
 ### Research - Chess notation
 (Summarized from the Wikipedia article on Algebraic Notation - https://en.wikipedia.org/wiki/Algebraic_notation_(chess) )
 
-Basic notation uses letters to indicate each piece, as well as grid notation to indicate where the piece moves to.
+Basic algebraic notation uses letters to indicate each piece, as well as grid notation to indicate where the piece moves to.
+
+
 
 ### Ideas
 The overall format required for this challenge immediately makes me think of a terminal application - I want to be able to implement a custom terminal and parse user inputs as commands in a consistent game loop.
